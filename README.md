@@ -18,6 +18,6 @@ Major Modifications over ESRGAN (baseline) :
 
 Our super-resolved output comapared to other techniques:<br/>
 
-<img src="prj_2.png" width="500"/>
+<img src="prj_2.png" width="600"/>
 
-<img src="prj_3.png" width="500"/>
+<img src="prj_3.png" width="600"/>
