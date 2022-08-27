@@ -16,3 +16,8 @@ Major Modifications over ESRGAN (baseline) :
 
  ![image](https://user-images.githubusercontent.com/74488693/130466774-626f2213-881a-4511-ba0d-077e4d26b2e2.png)
 
+Our super-resolved output comapared to other techniques:<br/>
+
+<img src="prj_2.png" width="500"/>
+
+<img src="prj_3.png" width="500"/>
